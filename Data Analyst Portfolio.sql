@@ -1,9 +1,10 @@
 -- ============================================================
 -- PROJECT: COVID-19 Global Data Exploration
--- Author:  [Your Name]
+-- Author:  Ruhanesh Suthan
 -- Tool:    Microsoft SQL Server (T-SQL)
 -- Dataset: https://ourworldindata.org/covid-deaths
 -- Tables:  dbo.CovidDeaths | dbo.CovidVaccinations
+-- Guidence: Alex the Analyst
 -- ============================================================
 -- Goal:
 --   Explore global COVID-19 data to uncover trends in:
